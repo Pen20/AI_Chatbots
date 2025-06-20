@@ -1,0 +1,1 @@
+This project builds an AI chatbot powered by Gemini models, using Next.js and TypeScript.
